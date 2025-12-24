@@ -1,0 +1,8 @@
+__pycache__/
+ .idea/
+*.pyc
+.env
+*.log
+.DS_Store
+/torch_cache/
+.venv
